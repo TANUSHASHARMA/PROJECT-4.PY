@@ -25,7 +25,16 @@ YOU CAN ENTER THE SYMBOL OF STOCK THAT YOU REQUIRE TO TRACK THE PRICES
 
 
 
-FOR EXAMPLE:<img width="228" alt="Screenshot 2024-11-14 at 5 35 37 PM" src="https://github.com/user-attachments/assets/c55f08fc-9eaa-48ff-b3eb-c37ef678498f">
+FOR EXAMPLE:
+
+
+
+
+
+
+
+
+<img width="228" alt="Screenshot 2024-11-14 at 5 35 37 PM" src="https://github.com/user-attachments/assets/c55f08fc-9eaa-48ff-b3eb-c37ef678498f">
 
 
 
