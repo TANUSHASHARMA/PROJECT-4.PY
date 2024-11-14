@@ -7,12 +7,64 @@ THIS IS THE BASIC UI OF STOCK PRICE TRACKER
 
 
 
+
+
+
+
+
+
+
 YOU CAN ENTER THE SYMBOL OF STOCK THAT YOU REQUIRE TO TRACK THE PRICES
 
+
+
+
+
+
+
+
+
+
 FOR EXAMPLE:<img width="228" alt="Screenshot 2024-11-14 at 5 35 37 PM" src="https://github.com/user-attachments/assets/c55f08fc-9eaa-48ff-b3eb-c37ef678498f">
+
+
+
+
+
+
+
+
 
 
 TO TRACK THE VALUE YOU NEED TO CLICK ON THE "GET STOCK PRICE" 
 
 
-FINALLY THE STOCK PRICE IS DISPLAYED 
+FINALLY THE STOCK PRICE IS DISPLAYED  
+
+
+
+
+ANOTHER SYMBOL OF STOCK
+
+
+
+
+
+
+
+<img width="236" alt="Screenshot 2024-11-14 at 5 35 57 PM" src="https://github.com/user-attachments/assets/528ac2fc-c2e9-4631-8b21-b8c9381e39ab">
+
+
+
+
+
+
+
+
+THIS IS ANOTHER EXAMPLE WHERE YOU CAN TRACK THE PRICES OF STOCK
+
+
+
+
+
+
